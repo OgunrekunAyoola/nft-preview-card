@@ -1,0 +1,171 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:  hsl(217, 54%, 11%);
+}
+.container{
+    height: 550px;
+    width: 330px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 10px;
+    background-color: hsl(216, 50%, 16%);
+}
+
+.equillibrum img{
+    height: 250px;
+    width: 300px;
+    object-fit: cover;
+    margin-top: 20px;
+    margin-left: 15px;
+    border-radius: 7px;
+}
+
+.equillibrum{
+    height: 250px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 20px;
+    position: relative;
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 250px;
+  width: 300px;
+  opacity: 0;
+  transition: .3s ease;
+  background-color: hsl(178, 100%, 50%);
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 7px;
+}
+
+.overlay img{
+    width: 50px;
+    height: 50px;
+    margin-top: 94px;
+    margin-left: 125px;
+    display: block;
+}
+
+.equillibrum:hover .overlay {
+  opacity: 0.5;
+}
+
+.info{
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.equillibrumtxt h3{
+    margin-top: 50px;
+    font-family: "Outfit", Specimen;
+}
+
+.equillibrumtxt:hover h3{
+    color: hsl(178, 100%, 50%);
+}
+
+.equillibrumtxt p{
+    font-family: "Outfit" ;
+    color: hsl(215, 51%, 70%);
+    margin-top: 15px;
+    margin-bottom: 20px
+}
+.unit{
+    display: flex;
+    margin: auto;
+    margin-top: 30px;
+}
+.eth{
+    display: flex;
+}
+.eth img{
+    height: 20px;
+}
+.eth p{
+    color: hsl(178, 100%, 50%);
+    margin-left: 10px;
+    margin-top: 2px;
+    font-family: "Outfit";
+}
+.clock{
+    display: flex;
+    align-items: right;
+    margin-left: auto;
+    width: 140px;
+    margin-bottom: 20px;
+    
+}
+.clock img{
+    height: 20px;
+    margin-right: 5px;
+}
+.clock p{
+    margin-top: 2px;
+    margin-bottom: auto;
+    color: hsl(215, 51%, 70%);
+    font-family: "Outfit";
+}
+
+.creator img{
+    height: 40px;
+    margin-top: 10px;
+}
+
+.creator{
+    display: flex;
+    border-top: 1px solid hsl(215, 32%, 27%);
+    width: 270px;
+}
+.firstspan{
+    color: hsl(215, 51%, 70%);
+}
+.secondspan:hover{
+    color: hsl(178, 100%, 50%);
+}
+.creator p{
+    margin-left: 12px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-family: "Outfit";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
