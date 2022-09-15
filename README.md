@@ -41,9 +41,10 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
 ### Useful resources
 
 - [Example resource 1](https://www.w3schools.com.com) 
 
 ## Author
-- Twitter - [@OgunrekunAyoola](https://www.twitter.com/OgunrekunAyoola)
+- Twitter - [@AyoolaOgunrekun](https://www.twitter.com/AyoolaOgunrekun)
