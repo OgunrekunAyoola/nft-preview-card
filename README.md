@@ -44,7 +44,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3schools.com.com) 
+- [https://www.w3schools.com] 
 
 ## Author
 - Twitter - [@AyoolaOgunrekun](https://www.twitter.com/AyoolaOgunrekun)
