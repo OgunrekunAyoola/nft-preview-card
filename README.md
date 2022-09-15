@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ogunrekunayoola.github.io/nft-preview-card/)
+- Live Site URL: [https://ogunrekunayoola.github.io/nft-preview-card/](https://ogunrekunayoola.github.io/nft-preview-card/)
 
 ## My process
 
